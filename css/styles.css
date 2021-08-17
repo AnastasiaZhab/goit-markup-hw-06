@@ -1031,8 +1031,8 @@ p {
 
 .checkbox-input:checked + .check-box {
   border-color: var(--accent-color);
-  /* background-color: var(--accent-color); */
-  background-image: url(/images/icon-check-on.svg);
+  background-color: var(--accent-color);
+  background-image: url(../images/icon-check-on.svg);
   background-origin: border-box;
 }
 
