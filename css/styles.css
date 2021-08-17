@@ -1056,7 +1056,6 @@ p {
   display: flex;
   align-items: center;
   padding-left: 29px;
-  padding-right: 10px;
   width: 200px;
   height: 50px;
   background-color: var(--accent-color);
@@ -1073,4 +1072,8 @@ p {
 
 .subsc {
   display: flex;
+}
+
+.subscribe-icon {
+  margin-left: 10px;
 }
